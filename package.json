@@ -1,0 +1,23 @@
+{
+  "name": "mysqlconect",
+  "version": "1.0.0",
+  "description": "uso del driver mysqlconect",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FaKevin/mysqlconect.git"
+  },
+  "keywords": [
+    "mysql",
+    "conexion"
+  ],
+  "author": "Fabricio Merida",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FaKevin/mysqlconect/issues"
+  },
+  "homepage": "https://github.com/FaKevin/mysqlconect#readme"
+}
